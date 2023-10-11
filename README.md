@@ -2,7 +2,7 @@
 
 ## Bird Species Responses to Rangeland Management in Relation to Their Traits: Río de la Plata Grasslands as a Case Study. Ecological Applications 2023
 
-Joaquín Aldabe ^{1,2}, Teresa Morán López3,4, Pablo Soca5, Oscar Blumetto6 & Juan Manuel Morales4,7
+Joaquín Aldabe <sup>1,2</sup>, Teresa Morán López <sup>3,4</sup> Pablo Soca <sup>5</sup>, Oscar Blumetto<sup>6</sup> & Juan Manuel Morales<sup>4,7</sup>
 
 Affiliations: 
 
