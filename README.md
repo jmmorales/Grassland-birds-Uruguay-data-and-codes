@@ -1,7 +1,7 @@
 # Grassland-birds-Uruguay-data-and-codes
 Bird Species Responses to Rangeland Management in Relation to Their Traits: Río de la Plata Grasslands as a Case Study. Ecological Applications 2023
 
-Authors names: Joaquín Aldabe1,2, Teresa Morán López3,4, Pablo Soca5, Oscar Blumetto6 & Juan Manuel Morales4,7
+Joaquín Aldabe1,2, Teresa Morán López3,4, Pablo Soca5, Oscar Blumetto6 & Juan Manuel Morales4,7
 Affiliations: 
 1 Departamento de Sistemas Agrarios y Paisajes Culturales, Centro Universitario Regional del Este, Universidad de la República, Rocha, Uruguay. 
 2 Southern Cone Grassland Alliance, Aves Uruguay-BirdLife International
